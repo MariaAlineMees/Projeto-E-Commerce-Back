@@ -1,4 +1,4 @@
-# 🛒 Nos Vemos pelo Mundo – Back-end da Loja Virtual 🌍✈️
+# 🛍️ Nos Vemos pelo Mundo – Back-end da Loja Virtual 🌍✈️
 
 Este é o back-end da aplicação **Nos Vemos pelo Mundo**, uma loja virtual com temática de viagem. A API REST fornece os dados dos produtos e simula a finalização de uma compra com atualização de estoque.
 
