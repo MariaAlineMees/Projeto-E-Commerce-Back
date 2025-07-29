@@ -39,10 +39,14 @@ Este é o back-end da aplicação **Nos Vemos pelo Mundo**, uma loja virtual com
 git clone https://github.com/MariaAlineMees/Projeto-E-Commerce-Back.git
 ```
 2. Instale as dependências:
-- npm install
+```bash
+ npm install
+```
 
 Inicie o servidor:
-- node server.js
+```bash
+ node server.js
+```
 
 3. A API estará disponível em http://localhost:3000/api/products
 
